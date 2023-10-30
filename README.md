@@ -4,12 +4,12 @@ Bot For Asphalt 9: Legends
 # Can i use it ?
 Sure , join https://discord.gg/u8KkJdnb
 
+## Supported Platform ?
+Windows and Steam
 # Is it Safe ?
 I dont know , you tell me
-
 # Is it Free ?
 Yup
-
 # Dependency
 https://github.com/UB-Mannheim/tesseract/wiki
 

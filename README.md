@@ -2,7 +2,7 @@
 Bot For Asphalt 9: Legends
 
 # Can i use it ?
-Sure , join https://discord.gg/M5A2Jf3d
+Sure , join [https://discord.gg/M5A2Jf3d](https://discord.gg/B3FK2uCN)
 ## Supported Platform ?
 Windows and Steam
 # Is it Safe ?

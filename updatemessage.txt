@@ -1,1 +1,1 @@
-Added More Tracks, Added config , please contact before upgrading
+Change login procedure. Added user verification , please contact before upgrading

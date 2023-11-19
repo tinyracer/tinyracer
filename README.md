@@ -5,7 +5,7 @@ Bot For Asphalt 9: Legends
 Sure , join [https://discord.gg/M5A2Jf3d](https://discord.gg/B3FK2uCN)
 Direct message ? https://t.me/dancingduck
 ## Supported Platform ?
-Windows and Steam
+Windows Store and Steam
 # Is it Safe ?
 I dont know , you tell me
 # Is it Free ?

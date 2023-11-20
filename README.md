@@ -10,6 +10,10 @@ Windows Store and Steam
 I dont know , you tell me
 # Is it Free ?
 Yup
+#Capabilities
+Daily Events , Multiplayer , Showroom
+# Multiplayer
+upto Platinum league with good garage and luck
 # Dependency
 https://github.com/UB-Mannheim/tesseract/wiki
 

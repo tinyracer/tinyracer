@@ -1,1 +1,1 @@
-Configs location changed
+Update for Ghost Slipstream. Dont up replace miscellaneous.ini at configs\configuration .

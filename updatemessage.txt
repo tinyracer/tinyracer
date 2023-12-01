@@ -1,1 +1,1 @@
-update for MP2 , car hunt , par with source , other updates
+Detect Errors on Multiplayer. Optimized multiplayer configs

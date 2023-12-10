@@ -1,1 +1,1 @@
-Detect Errors on Multiplayer. Optimized multiplayer configs
+Obligatory Updates since everything works with no complaints.

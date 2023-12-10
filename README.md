@@ -2,7 +2,7 @@
 Bot For Asphalt 9: Legends
 
 # Can i use it ?
-join https://discord.gg/3q8NJBthnC
+join [https://discord.gg/3q8NJBthnC](https://discord.com/invite/ccJnRBqRjJ)
 
  OR 
  

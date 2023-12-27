@@ -2,10 +2,8 @@
 Bot For Asphalt 9: Legends
 
 # Can i use it ?
-join https://discord.gg/3q8NJBthnC
-
+Join Our Discord https://discord.gg/tc4CdmxKVW
  OR 
- 
 Direct message ? https://t.me/dancingduck
 
 ## Supported Platform ?

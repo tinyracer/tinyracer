@@ -1,1 +1,1 @@
-Obligatory Updates since everything works with no complaints.
+Changes in dailyevents.ini and weekly.ini , Added option for automatic car hunt. Happy New Year Guys!
